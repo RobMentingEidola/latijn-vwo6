@@ -1,0 +1,9 @@
+title: Examen Latijn 2026–2027
+description: Website voor leerlingen vwo 6.
+theme: jekyll-theme-primer
+
+# Just the Docs instellingen voor automatische navigatie
+remote_theme: just-the-docs/just-the-docs
+
+# Zorgt voor nette URL's zonder .html aan het einde
+permalink: pretty
