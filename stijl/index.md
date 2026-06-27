@@ -9,9 +9,7 @@ has_children: true
 
 Hieronder vind je een alfabetisch overzicht van de stilistische middelen voor het eindexamen Latijn. Klik op een stijlmiddel om de definitie open te klappen.
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/banner-stijl.jpg" alt="Taalhumor strip pleonasme en contaminatie" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
-</div>
+![Taalhumor strip pleonasme en contaminatie]({{ '/assets/banner-stijl.jpg' | relative_url }})
 
 <details style="background: #f8f9fa; padding: 12px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">afgebeelde</summary>
