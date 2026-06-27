@@ -11,6 +11,7 @@ Welkom bij het tekstenoverzicht voor het examen Latijn. Kies hieronder de redevo
 
 ## 1. Pro Archia Poeta
 * <a href="pro-archia-caput-4.html" target="_blank">Caput 4</a> *(Nu beschikbaar - opent in nieuw tabblad)*
+* <a href="pro-archia-caput-5.html" target="_blank">Caput 5</a> *(Nu beschikbaar - opent in nieuw tabblad)*
 * *(Later: overige capita)*
 
 ## 2. In Catilinam
