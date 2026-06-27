@@ -212,7 +212,7 @@ Hieronder vind je de officiële grammaticale eisen (can-do-statements) voor het 
         <li>Je kunt uitleggen wat de begrippen gelijktijdig(heid), voortijdig(heid) en natijdig(heid) betekenen.</li>
         <li>Je kunt onderscheid maken tussen bijvoeglijk, zelfstandig en praedicatief gebruikte participia.</li>
         <li>Je kunt uitleggen wat een verbonden participium is.</li>
-        <li>Je kunt een <a href="ablativus-absolutus.html">ablativus absolutus</a> herkennen en vertalen.</li>
+        <li>Je kunt een ablativus absolutus herkennen en vertalen.</li>
         <li>Je kunt een a.c.p. herkennen en vertalen.</li>
         <li>Je kunt een participium futurum actief herkennen en vertalen met doelaangevende betekenis.</li>
         <li>Je kunt een participium futurum actief in combinatie met vormen van esse herkennen en vertalen als een omschrijvend futurum.</li>
