@@ -8,11 +8,11 @@ nav_order: 1
 
 Welkom! Op deze site vind je alles voor het examen Latijn: teksten, grammatica, woorden en stilistische middelen.
 
-## Snel naar
-* <a href="teksten/">Teksten</a>
-* <a href="grammatica/">Grammatica</a>
-* <a href="woorden/">Woorden</a>
-* <a href="stilistische-middelen/">Stilistische middelen</a>
+Gebruik het menu aan de linkerkant om direct naar de verschillende onderdelen te navigeren.
 
-## Laatste updates
-- *Nieuw:* Website online gezet!
+---
+
+![Buste van Cicero op het Forum Romanum](https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1200&auto=format&fit=crop)
+
+### Laatste updates
+* *Nieuw:* Website online gezet!
