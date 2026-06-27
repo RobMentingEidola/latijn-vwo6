@@ -9,10 +9,10 @@ nav_order: 1
 Welkom! Op deze site vind je alles voor het examen Latijn: teksten, grammatica, woorden en stilistische middelen.
 
 ## Snel naar
-- [Teksten](/teksten/)
-- [Grammatica](/grammatica/)
-- [Woorden](/woorden/)
-- [Stilistische middelen](/stijl/)
+* [Teksten](teksten/)
+* [Grammatica](grammatica/)
+* [Woorden](woorden/)
+* [Stilistische middelen](stilistische-middelen/)
 
 ## Laatste updates
 - *Nieuw:* Website online gezet!
