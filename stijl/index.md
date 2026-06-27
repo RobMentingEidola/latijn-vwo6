@@ -11,6 +11,8 @@ Hieronder vind je een alfabetisch overzicht van de stilistische middelen voor he
 
 ![Taalhumor strip pleonasme en contaminatie]({{ '/assets/banner-stijl.jpg' | relative_url }})
 
+[Oefen de stijlmiddelen met deze interactieve Flashkaarten op BookWidgets!](https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576){: .btn .btn-blue }
+
 <details style="background: #f8f9fa; padding: 12px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">afgebeelde</summary>
   <p style="margin-top: 10px; margin-bottom: 0;">Het eerste element van een vergelijking: de persoon/zaak die vergeleken wordt.</p>
