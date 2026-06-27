@@ -10,7 +10,7 @@ has_children: true
 Welkom bij het tekstenoverzicht voor het examen Latijn. Kies hieronder de redevoering of het traktaat waaraan je wilt werken:
 
 ## 1. Pro Archia Poeta
-* [Caput 4](pro-archia-caput-4.html) *(Nu beschikbaar)*
+* <a href="pro-archia-caput-4.html" target="_blank">Caput 4</a> *(Nu beschikbaar - opent in nieuw tabblad)*
 * *(Later: overige capita)*
 
 ## 2. In Catilinam
