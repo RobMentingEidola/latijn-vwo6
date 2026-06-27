@@ -16,3 +16,6 @@ Gebruik het menu aan de linkerkant om direct naar de verschillende onderdelen te
 
 ### Laatste updates
 * *Nieuw:* Pro Archia capita 4 & 5 online gezet en de pagina's Grammatica en Stijl opgezet!
+* Laatst bijgewerkt: <span id="last-updated">laden...</span>
+
+<script src="assets/last-updated.js"></script>
