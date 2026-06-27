@@ -11,7 +11,7 @@ Hieronder vind je een alfabetisch overzicht van de stilistische middelen voor he
 
 ![Taalhumor strip pleonasme en contaminatie]({{ '/assets/banner-stijl.jpg' | relative_url }})
 
-[Oefen de stijlmiddelen met deze interactieve Flashkaarten op BookWidgets!](https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576){: .btn .btn-blue }
+<a href="https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576" target="_blank" class="btn btn-blue">Oefen de stijlmiddelen met deze interactieve Flashkaarten op BookWidgets!</a>
 
 <details style="background: #f8f9fa; padding: 12px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">afgebeelde</summary>
