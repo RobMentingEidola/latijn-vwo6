@@ -15,6 +15,7 @@ Welkom bij het tekstenoverzicht voor het examen Latijn. Kies hieronder de redevo
 * <a href="pro-archia-caput-5b.html" target="_blank">Caput 5</a> *(Nu beschikbaar: tweede gedeelte - opent in nieuw tabblad)*
 * <a href="pro-archia-caput-6.html" target="_blank">Caput 6</a> *(Nu beschikbaar - opent in nieuw tabblad)*
 * <a href="pro-archia-caput-6b.html" target="_blank">Caput 6</a> *(Nu beschikbaar: tweede gedeelte - opent in nieuw tabblad)*
+* <a href="pro-archia-caput-7.html" target="_blank">Caput 7</a> *(Nu beschikbaar - opent in nieuw tabblad)*
 * *(Later: overige capita)*
 
 ## 2. In Catilinam
