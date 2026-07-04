@@ -15,7 +15,7 @@ Alfabetisch overzicht van de stijlmiddelen voor het eindexamen Latijn.
 ![Taalhumor strip pleonasme en contaminatie]({{ '/assets/banner-stijl.jpg' | relative_url }})
 
 ## Snel oefenen
-[Interactieve flashkaarten (BookWidgets)](https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576)
+<a href="https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576" target="_blank" rel="noopener noreferrer">Interactieve flashkaarten (BookWidgets)</a>
 
 <details style="background: #f8f9fa; padding: 12px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">afgebeelde</summary>
