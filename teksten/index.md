@@ -10,12 +10,12 @@ has_children: true
 Kies direct een caput en ga aan de slag.
 
 ## Pro Archia Poeta
-- [Caput 4](pro-archia-caput-4.html)
-- [Caput 5](pro-archia-caput-5.html)
-- [Caput 5b](pro-archia-caput-5b.html)
-- [Caput 6](pro-archia-caput-6.html)
-- [Caput 6b](pro-archia-caput-6b.html)
-- [Caput 7](pro-archia-caput-7.html)
+- <a href="pro-archia-caput-4.html" target="_blank" rel="noopener noreferrer">Caput 4</a>
+- <a href="pro-archia-caput-5.html" target="_blank" rel="noopener noreferrer">Caput 5</a>
+- <a href="pro-archia-caput-5b.html" target="_blank" rel="noopener noreferrer">Caput 5b</a>
+- <a href="pro-archia-caput-6.html" target="_blank" rel="noopener noreferrer">Caput 6</a>
+- <a href="pro-archia-caput-6b.html" target="_blank" rel="noopener noreferrer">Caput 6b</a>
+- <a href="pro-archia-caput-7.html" target="_blank" rel="noopener noreferrer">Caput 7</a>
 
 ## Nog in opbouw
 - In Catilinam (links volgen)
