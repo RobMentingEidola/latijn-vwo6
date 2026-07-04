@@ -7,8 +7,12 @@ has_children: true
 
 # Woorden
 
-Woordlijsten en oefenroutes (bijvoorbeeld per tekst of op frequentie).
+Woordlijsten en oefenroutes voor je examenvoorbereiding.
 
 ## Routes
-- Per tekst *(link volgt)*
-- Frequentielijst *(link volgt)*
+- Per tekst (link volgt)
+- Frequentielijst (link volgt)
+
+## Intussen oefenen
+- [Werk met de teksten](../teksten/)
+- [Herhaal grammatica](../grammatica/)

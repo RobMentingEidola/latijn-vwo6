@@ -5,9 +5,17 @@ nav_order: 3
 has_children: true
 ---
 
-# Exameneisen Grammatica Latijn (CEVO Minimumlijst)
+# Grammatica
 
-Hieronder vind je de officiële grammaticale eisen (can-do-statements) voor het eindexamen Latijn. Klik op een categorie om de specifieke eisen open te klappen.
+Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen Latijn.
+
+<link rel="stylesheet" href="{{ '/assets/latin-details.css' | relative_url }}">
+<script src="{{ '/assets/latin-details.js' | relative_url }}"></script>
+
+## Snel naar
+- [Ablativus absolutus](ablativus-absolutus/)
+- [Deel 1: Vormleer](#deel-1-vormleer)
+- [Deel 2: Syntaxis](#deel-2-syntaxis)
 
 ## Deel 1: Vormleer
 

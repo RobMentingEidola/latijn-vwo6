@@ -2,26 +2,33 @@
 layout: default
 title: Home
 nav_order: 1
+last_updated: 2026-07-04
 ---
 
 # Examen Latijn 2026–2027
 
-Welkom op deze site! Hier vind je een overzichtelijke verzameling materialen om je goed voor te bereiden op het examen Latijn.
+Alles voor je voorbereiding op het CE Latijn, op een plek.
 
-Je kunt direct terecht bij:
-- teksten
-- grammatica
-- woorden
-- stilistische middelen
+## Start hier
+- [Ik begin met teksten](teksten/)
+- [Ik oefen grammatica](grammatica/)
+- [Ik herhaal stijl en woorden](stijl/) en [woorden](woorden/)
 
-Gebruik het menu aan de linkerkant om snel naar het onderdeel te gaan dat je nodig hebt. Of begin meteen met een tekst of een grammatica-oefening.
+## Alle onderdelen
+- [Teksten](teksten/)
+- [Grammatica](grammatica/)
+- [Woorden](woorden/)
+- [Stilistische middelen](stijl/)
 
----
+## Nieuw deze week
+- Pro Archia: capita 4 t/m 7 staan klaar bij teksten.
+- Grammatica-overzicht is aangevuld met CEVO can-do's.
+- Startpagina vereenvoudigd met directe routes.
 
-<img src="assets/catilina.jpg" alt="Buste van Marcus Tullius Cicero" style="max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 4px;">
+![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
 
 ### Laatste updates
-- Laatst bijgewerkt: <span id="last-updated">laden...</span>
+- Laatst inhoudelijk bijgewerkt: <span id="last-updated" data-last-updated="{{ page.last_updated }}">laden...</span>
 - Deze pagina wordt regelmatig aangevuld met nieuwe uitleg, teksten en oefenmateriaal.
 
-<script src="assets/last-updated.js"></script>
+<script src="{{ '/assets/last-updated.js' | relative_url }}"></script>

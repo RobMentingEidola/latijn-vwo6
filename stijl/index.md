@@ -5,13 +5,17 @@ nav_order: 5
 has_children: true
 ---
 
-# Overzicht Stilistische Middelen
+# Stilistische middelen
 
-Hieronder vind je een alfabetisch overzicht van de stilistische middelen voor het eindexamen Latijn. Klik op een stijlmiddel om de definitie open te klappen.
+Alfabetisch overzicht van de stijlmiddelen voor het eindexamen Latijn.
+
+<link rel="stylesheet" href="{{ '/assets/latin-details.css' | relative_url }}">
+<script src="{{ '/assets/latin-details.js' | relative_url }}"></script>
 
 ![Taalhumor strip pleonasme en contaminatie]({{ '/assets/banner-stijl.jpg' | relative_url }})
 
-<a href="https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576" target="_blank" class="btn btn-blue">Oefen de stijlmiddelen met deze interactieve Flashkaarten op BookWidgets!</a>
+## Snel oefenen
+[Interactieve flashkaarten (BookWidgets)](https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576)
 
 <details style="background: #f8f9fa; padding: 12px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">afgebeelde</summary>

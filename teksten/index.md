@@ -5,24 +5,19 @@ nav_order: 2
 has_children: true
 ---
 
-# Overzicht Teksten Cicero
+# Teksten
 
-Welkom bij het tekstenoverzicht voor het examen Latijn. Kies hieronder de redevoering of het traktaat waaraan je wilt werken:
+Kies direct een caput en ga aan de slag.
 
-## 1. Pro Archia Poeta
-* <a href="pro-archia-caput-4.html" target="_blank">Caput 4</a> *(Nu beschikbaar - opent in nieuw tabblad)*
-* <a href="pro-archia-caput-5.html" target="_blank">Caput 5</a> *(Nu beschikbaar - opent in nieuw tabblad)*
-* <a href="pro-archia-caput-5b.html" target="_blank">Caput 5</a> *(Nu beschikbaar: tweede gedeelte - opent in nieuw tabblad)*
-* <a href="pro-archia-caput-6.html" target="_blank">Caput 6</a> *(Nu beschikbaar - opent in nieuw tabblad)*
-* <a href="pro-archia-caput-6b.html" target="_blank">Caput 6</a> *(Nu beschikbaar: tweede gedeelte - opent in nieuw tabblad)*
-* <a href="pro-archia-caput-7.html" target="_blank">Caput 7</a> *(Nu beschikbaar - opent in nieuw tabblad)*
-* *(Later: overige capita)*
+## Pro Archia Poeta
+- [Caput 4](pro-archia-caput-4.html)
+- [Caput 5](pro-archia-caput-5.html)
+- [Caput 5b](pro-archia-caput-5b.html)
+- [Caput 6](pro-archia-caput-6.html)
+- [Caput 6b](pro-archia-caput-6b.html)
+- [Caput 7](pro-archia-caput-7.html)
 
-## 2. In Catilinam
-* *(Links volgen)*
-
-## 3. In Pisonem
-* *(Links volgen)*
-
-## 4. De Oratore
-* *(Links volgen)*
+## Nog in opbouw
+- In Catilinam (links volgen)
+- In Pisonem (links volgen)
+- De Oratore (links volgen)
