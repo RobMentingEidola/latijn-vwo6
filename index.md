@@ -12,7 +12,8 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 ## Start hier
 - [Ik begin met teksten](teksten/)
 - [Ik oefen grammatica](grammatica/)
-- [Ik herhaal stijl](stijl/) en [woorden](woorden/)
+- [Ik herhaal stijl](stijl/)
+- [Ik herhaal woorden](woorden/)
 
 ## Alle onderdelen
 - [Teksten](teksten/)
