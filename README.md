@@ -3,6 +3,7 @@ Examenwebsite Latijn vwo 6
 
 Kort doel van de site: “Examenvoorbereiding Latijn vwo 6 met teksten, grammatica, stijl en woordenschat.”
 auteur: Rob Menting
+
 ## Release-notitie (2026-07-04)
 
 - Startpagina vereenvoudigd met directe routes naar teksten, grammatica, woorden en stilistische middelen.
