@@ -159,12 +159,12 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
 <details style="background: #f8f9fa; padding: 12px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">2. Functies van naamvallen</summary>
   <ul style="margin-top: 10px; padding-left: 20px;">
-    <li>Je kunt de functies van de **nominativus** toepassen in een ongeziene tekst: onderwerp, naamwoordelijk deel van het gezegde.</li>
-    <li>Je kunt de functies van de **genitivus** toepassen in een ongeziene tekst: bijvoeglijke bepaling die een bezitter of eigenschap uitdrukt, genitivus partitivus, genitivus obiectivus, als aanvulling bij werkwoorden (inclusief esse), als aanvulling bij bijvoeglijke naamwoorden, causa en gratia met genitivus.</li>
-    <li>Je kunt de functies van de **dativus** toepassen in een ongeziene tekst: meewerkend voorwerp, de handelende persoon bij het gerundivum, de bezitter bij het werkwoord esse, als aanvulling die een doel uitdrukt bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden.</li>
-    <li>Je kunt de functies van de **accusativus** toepassen in een ongeziene tekst: lijdend voorwerp, bijwoordelijke bepaling van richting, tijdsduur en afstand al dan niet na een voorzetsel, als aanvulling bij werkwoorden met een dubbele accusativus, als onderwerp en naamwoordelijk deel van het gezegde in de a.c.i. en a.c.p.</li>
-    <li>Je kunt de functies van de **ablativus** toepassen in een ongeziene tekst: bijwoordelijke bepaling van plaats, tijd, middel, reden, wijze, maat en vergelijking (al dan niet na een voorzetsel), als aanvulling bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden, in de ablativus absolutus constructie.</li>
-    <li>Je kunt de functies van de **vocativus** toepassen in een ongeziene tekst: aanspreekvorm.</li>
+    <li>Je kunt de functies van de *nominativus* toepassen in een ongeziene tekst: onderwerp, naamwoordelijk deel van het gezegde.</li>
+    <li>Je kunt de functies van de *genitivus* toepassen in een ongeziene tekst: bijvoeglijke bepaling die een bezitter of eigenschap uitdrukt, genitivus partitivus, genitivus obiectivus, als aanvulling bij werkwoorden (inclusief esse), als aanvulling bij bijvoeglijke naamwoorden, causa en gratia met genitivus.</li>
+    <li>Je kunt de functies van de *dativus* toepassen in een ongeziene tekst: meewerkend voorwerp, de handelende persoon bij het gerundivum, de bezitter bij het werkwoord esse, als aanvulling die een doel uitdrukt bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden.</li>
+    <li>Je kunt de functies van de *accusativus* toepassen in een ongeziene tekst: lijdend voorwerp, bijwoordelijke bepaling van richting, tijdsduur en afstand al dan niet na een voorzetsel, als aanvulling bij werkwoorden met een dubbele accusativus, als onderwerp en naamwoordelijk deel van het gezegde in de a.c.i. en a.c.p.</li>
+    <li>Je kunt de functies van de *ablativus* toepassen in een ongeziene tekst: bijwoordelijke bepaling van plaats, tijd, middel, reden, wijze, maat en vergelijking (al dan niet na een voorzetsel), als aanvulling bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden, in de ablativus absolutus constructie.</li>
+    <li>Je kunt de functies van de *vocativus* toepassen in een ongeziene tekst: aanspreekvorm.</li>
   </ul>
 </details>
 
@@ -194,10 +194,10 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
     <li>Je kunt uitleggen wat de begrippen overgankelijk / transitief en onovergankelijk / intransitief betekenen.</li>
     <li>Je kunt uitleggen wat de begrippen directe en indirecte rede betekenen.</li>
     <li>Je kunt vertalen: de vraagpartikels num, nonne, -ne en utrum / -ne ... an.</li>
-    <li>Je kunt de verschillende tijden herkennen og vertalen.</li>
+    <li>Je kunt de verschillende tijden herkennen of vertalen.</li>
     <li>Je kunt uitleggen wat een praesens historicum is; in een ongeziene tekst kun je het herkennen en vertalen.</li>
     <li>Je kunt uitleggen wat het verschil is tussen het imperfectum voor beschrijving van de achtergrond en het perfectum voor beschrijving van een gebeurtenis.</li>
-    <li>Je kunt de volgende betekenissen van de **coniunctivus** herkennen en vertalen:
+    <li>Je kunt de volgende betekenissen van de *coniunctivus* herkennen en vertalen:
       <ul>
         <li>in hoofdzinnen: aansporing, verbod, twijfel, vervulbare en onvervulbare wens, mogelijkheid.</li>
         <li>irrealis van heden en verleden.</li>
@@ -208,14 +208,14 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
         <li>in de indirecte rede met uitzondering van de coniunctivus die een bevel uitdrukt.</li>
       </ul>
     </li>
-    <li>Je kunt een **infinitivus** herkennen en vertalen:
+    <li>Je kunt een *infinitivus* herkennen en vertalen:
       <ul>
         <li>Je kunt uitleggen wat de begrippen gelijktijdig(heid), voortijdig(heid) en natijdig(heid) betekenen.</li>
         <li>Je kunt onderscheid maken tussen een subjectsinfinitivus en een objectsinfinitivus.</li>
         <li>Je kunt herkennen en vertalen: een a.c.i. en een n.c.i..</li>
       </ul>
     </li>
-    <li>Je kunt een **participium** herkennen en vertalen:
+    <li>Je kunt een *participium* herkennen en vertalen:
       <ul>
         <li>Je kunt uitleggen wat de begrippen gelijktijdig(heid), voortijdig(heid) en natijdig(heid) betekenen.</li>
         <li>Je kunt onderscheid maken tussen bijvoeglijk, zelfstandig en praedicatief gebruikte participia.</li>
@@ -226,7 +226,7 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
         <li>Je kunt een participium futurum actief in combinatie met vormen van esse herkennen en vertalen als een omschrijvend futurum.</li>
       </ul>
     </li>
-    <li>Je kunt een **gerundium / gerundivum** herkennen en letterlijk vertalen:
+    <li>Je kunt een *gerundium / gerundivum* herkennen en letterlijk vertalen:
       <ul>
         <li>het gerundivum als naamwoordelijk deel van het gezegde als gerundivum van verplichting, inclusief de vertaling kunnen en mogen.</li>
         <li>het dominant gebruik van het gerundivum, namelijk in de zgn. gerundivumconstructie.</li>
