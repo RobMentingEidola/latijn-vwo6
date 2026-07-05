@@ -163,7 +163,7 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
     <li>Je kunt de functies van de **genitivus** toepassen in een ongeziene tekst: bijvoeglijke bepaling die een bezitter of eigenschap uitdrukt, genitivus partitivus, genitivus obiectivus, als aanvulling bij werkwoorden (inclusief esse), als aanvulling bij bijvoeglijke naamwoorden, causa en gratia met genitivus.</li>
     <li>Je kunt de functies van de **dativus** toepassen in een ongeziene tekst: meewerkend voorwerp, de handelende persoon bij het gerundivum, de bezitter bij het werkwoord esse, als aanvulling die een doel uitdrukt bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden.</li>
     <li>Je kunt de functies van de **accusativus** toepassen in een ongeziene tekst: lijdend voorwerp, bijwoordelijke bepaling van richting, tijdsduur en afstand al dan niet na een voorzetsel, als aanvulling bij werkwoorden met een dubbele accusativus, als onderwerp en naamwoordelijk deel van het gezegde in de a.c.i. en a.c.p.</li>
-    <li>Je kunt de functies van de **ablativus** toepassen in een ongeziene tekst: bijwoordelijke bepaling van plaats, tijd, middel, reden, wijze, maat en vergelijking (al dan niet na een voorzetsel), als aanvulling bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden, in de ablativus absolutus constructie.</li>
+    <li>Je kunt de functies van de **ablativus** toepassen in een ongeziene tekst: bijwoordelijke bepaling van plaats, tijd, middel, reden, wijze, maat en vergelijking (al dan niet na een voorzetsel), als aanvulling bij werkwoorden, als aanvulling bij bijvoeglijke naamwoorden, in de [ablativus absolutus](ablativus-absolutus/) constructie.</li>
     <li>Je kunt de functies van de **vocativus** toepassen in een ongeziene tekst: aanspreekvorm.</li>
   </ul>
 </details>
@@ -220,7 +220,7 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
         <li>Je kunt uitleggen wat de begrippen gelijktijdig(heid), voortijdig(heid) en natijdig(heid) betekenen.</li>
         <li>Je kunt onderscheid maken tussen bijvoeglijk, zelfstandig en praedicatief gebruikte participia.</li>
         <li>Je kunt uitleggen wat een verbonden participium is.</li>
-        <li>Je kunt een ablativus absolutus herkennen en vertalen.</li>
+        <li>Je kunt een [ablativus absolutus](ablativus-absolutus/) herkennen en vertalen.</li>
         <li>Je kunt een a.c.p. herkennen en vertalen.</li>
         <li>Je kunt een participium futurum actief herkennen en vertalen met doelaangevende betekenis.</li>
         <li>Je kunt een participium futurum actief in combinatie met vormen van esse herkennen en vertalen als een omschrijvend futurum.</li>
