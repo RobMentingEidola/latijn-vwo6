@@ -14,6 +14,21 @@ Alfabetisch overzicht van de stijlmiddelen voor het eindexamen Latijn.
 
 ![Taalhumor strip pleonasme en contaminatie]({{ '/assets/banner-stijl.jpg' | relative_url }})
 
+## Argumentatieve begrippen
+
+<p>Uitlegvideo over argumentatieve begrippen:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1.5rem; border-radius: 8px;">
+  <iframe
+    src="https://www.youtube.com/embed/kg2a6thvdTY"
+    title="Argumentatieve begrippen"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Snel oefenen
 <a href="https://www.bookwidgets.com/play/-3GeJeS7-iQAFkaZocgAAA/ZEGEYZP/stijlmiddelen?teacher_id=6340060906520576" target="_blank" rel="noopener noreferrer">Interactieve flashkaarten (BookWidgets)</a>
 
