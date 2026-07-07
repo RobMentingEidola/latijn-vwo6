@@ -18,6 +18,7 @@ Kies direct een caput en ga aan de slag.
 - <a href="pro-archia-caput-7.html" target="_blank" rel="noopener noreferrer">Caput 7</a>
 - <a href="pro-archia-caput-12.html" target="_blank" rel="noopener noreferrer">Caput 12</a>
 - <a href="pro-archia-caput-12b.html" target="_blank" rel="noopener noreferrer">Caput 12b</a>
+- <a href="pro-archia-caput-13.html" target="_blank" rel="noopener noreferrer">Caput 13</a>
 
 ## Nog in opbouw
 - In Catilinam (links volgen)
