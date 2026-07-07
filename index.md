@@ -22,11 +22,8 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 - [Stilistische middelen](stijl/)
 
 ## Nieuw deze week
-- Pro Archia: capita 4 t/m 14 staan klaar bij teksten.
+- Pro Archia: capita 4 t/m 15 staan klaar bij teksten.
 
 ![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
-
-### Laatste updates
-- Laatst inhoudelijk bijgewerkt: <span id="last-updated" data-last-updated="{{ page.last_updated }}">laden...</span>
 
 <script src="{{ '/assets/last-updated.js' | relative_url }}"></script>
