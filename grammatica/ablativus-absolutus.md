@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oefeningen Ablativus Absolutus
+title: Ablativus Absolutus
 parent: Grammatica
 ---
 
