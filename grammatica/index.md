@@ -14,6 +14,11 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
 
 ## Snel naar
 - [Ablativus absolutus](ablativus-absolutus/)
+- [Accusativus cum infinitivo](accusativus-cum-infinitivo/)
+- [Passivum](passivum/)
+- [Relativum](relativum/)
+- [Participium](participium/)
+- [Naamwoorden](naamwoorden/)
 - [Deel 1: Vormleer](#deel-1-vormleer)
 - [Deel 2: Syntaxis](#deel-2-syntaxis)
 

@@ -18,6 +18,8 @@ parent: Grammatica
   }
 </style>
 
+<p>Hier vind je uitleg over de ablativus absolutus.</p>
+
 <p>
   <a class="pagina-knop" href="https://youtu.be/3RlzPH5ulEo" target="_blank" rel="noopener noreferrer">Bekijk uitlegvideo in nieuw tabblad</a>
 </p>
