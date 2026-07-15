@@ -28,6 +28,7 @@ Kies direct een caput en ga aan de slag.
 - <a href="pro-archia-caput-18.html" target="_blank" rel="noopener noreferrer">Caput 18</a>
 - <a href="pro-archia-caput-18-19.html" target="_blank" rel="noopener noreferrer">Caput 18-19</a>
 - <a href="pro-archia-caput-26.html" target="_blank" rel="noopener noreferrer">Caput 26</a>
+- <a href="pro-archia-caput-27.html" target="_blank" rel="noopener noreferrer">Caput 27</a>
 
 
 ## Nog in opbouw
