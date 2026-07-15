@@ -20,8 +20,6 @@ Hier vind je de CEVO minimumlijst met grammaticale can-do's voor het eindexamen 
 - [Participium](participium/)
 - [Naamwoorden](naamwoorden/)
 - [Soorten zinnen](zinnen/)
-- [Deel 1: Vormleer](#deel-1-vormleer)
-- [Deel 2: Syntaxis](#deel-2-syntaxis)
 
 ## Deel 1: Vormleer
 
