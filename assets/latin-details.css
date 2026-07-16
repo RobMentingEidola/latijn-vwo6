@@ -16,3 +16,34 @@
   margin-top: 10px;
   margin-bottom: 0;
 }
+
+.pro-archia-grid {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(120px, 1fr));
+  gap: 8px 20px;
+}
+
+.pro-archia-grid li {
+  margin: 0;
+}
+
+@media (max-width: 1000px) {
+  .pro-archia-grid {
+    grid-template-columns: repeat(3, minmax(120px, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .pro-archia-grid {
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .pro-archia-grid {
+    grid-template-columns: 1fr;
+  }
+}
