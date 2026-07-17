@@ -34,6 +34,7 @@ Kies direct een caput en ga aan de slag.
 	<li><a href="pro-archia-caput-27.html" target="_blank" rel="noopener noreferrer">Caput 27</a></li>
 	<li><a href="pro-archia-caput-28.html" target="_blank" rel="noopener noreferrer">Caput 28</a></li>
 	<li><a href="pro-archia-caput-29.html" target="_blank" rel="noopener noreferrer">Caput 29</a></li>
+	<li><a href="pro-archia-caput-30.html" target="_blank" rel="noopener noreferrer">Caput 30</a></li>
 </ul>
 
 
