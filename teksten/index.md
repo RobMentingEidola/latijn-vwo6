@@ -43,6 +43,7 @@ Kies direct een caput en ga aan de slag.
 <ul class="pro-archia-grid">
 	<li><a href="in-catilinam1-caput-01.html" target="_blank" rel="noopener noreferrer">Caput 1</a></li>
 	<li><a href="in-catilinam1-caput-02.html" target="_blank" rel="noopener noreferrer">Caput 2</a></li>
+	<li><a href="in-catilinam1-caput-05.html" target="_blank" rel="noopener noreferrer">Caput 5</a></li>
 </ul>
 
 ## Nog in opbouw

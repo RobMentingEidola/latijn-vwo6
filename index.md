@@ -22,8 +22,8 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 - [Stilistische middelen](stijl/)
 
 ## Nieuw deze week
-- Pro Archia: klaar tot en met caput 19. 
-- video's over grammatica toegevoegd!
+- Pro Archia: klaar!
+- In Catilinam 1: caput 1,2 en 5 toegevoegd.
 
 ![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
 
