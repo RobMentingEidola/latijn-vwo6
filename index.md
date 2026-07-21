@@ -23,7 +23,7 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 
 ## Nieuw deze week
 - Pro Archia: klaar!
-- In Catilinam 1: caput 1,2 en 5 toegevoegd.
+- In Catilinam 1: caput 1,2 en 5, 6 en 9 toegevoegd.
 
 ![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
 
