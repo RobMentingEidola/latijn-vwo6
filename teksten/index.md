@@ -48,6 +48,7 @@ Kies direct een caput en ga aan de slag.
 	<li><a href="in-catilinam1-caput-09.html" target="_blank" rel="noopener noreferrer">Caput 9</a></li>
 	<li><a href="in-catilinam1-caput-09b.html" target="_blank" rel="noopener noreferrer">Caput 9b</a></li>
 	<li><a href="in-catilinam1-caput-10.html" target="_blank" rel="noopener noreferrer">Caput 10</a></li>
+	<li><a href="in-catilinam1-caput-10b.html" target="_blank" rel="noopener noreferrer">Caput 10b</a></li>
 </ul>
 
 ## Nog in opbouw
