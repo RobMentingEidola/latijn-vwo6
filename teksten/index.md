@@ -62,6 +62,7 @@ Kies direct een caput en ga aan de slag.
 ## In Pisonem
 <ul class="pro-archia-grid">
 	<li><a href="in-pisonem-caput-01.html" target="_blank" rel="noopener noreferrer">Caput 1</a></li>
+	<li><a href="in-pisonem-caput-01b.html" target="_blank" rel="noopener noreferrer">Caput 1b</a></li>
 </ul>
 
 ## Nog in opbouw
