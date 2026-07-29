@@ -24,6 +24,7 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 ## Nieuw deze week
 - Pro Archia: klaar!
 - In Catilinam 1: klaar!
+- In Pisonem: klaar tot met caput 68.
 
 ![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
 
