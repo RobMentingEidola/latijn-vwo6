@@ -78,6 +78,7 @@ Kies direct een caput en ga aan de slag.
 	<li><a href="in-pisonem-caput-70.html" target="_blank" rel="noopener noreferrer">Caput 70</a></li>
 	<li><a href="in-pisonem-caput-70-71.html" target="_blank" rel="noopener noreferrer">Caput 70-71</a></li>
 	<li><a href="in-pisonem-caput-71-72.html" target="_blank" rel="noopener noreferrer">Caput 71-72</a></li>
+	<li><a href="in-pisonem-caput-72.html" target="_blank" rel="noopener noreferrer">Caput 72</a></li>
 </ul>
 
 ## Nog in opbouw
