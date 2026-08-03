@@ -84,5 +84,7 @@ Kies direct een caput en ga aan de slag.
 	<li><a href="in-pisonem-caput-75.html" target="_blank" rel="noopener noreferrer">Caput 75</a></li>
 </ul>
 
-## Nog in opbouw
-- De Oratore (links volgen)
+## De Oratore
+<ul class="pro-archia-grid">
+	<li><a href="de-oratore-caput-137.html" target="_blank" rel="noopener noreferrer">Caput 137</a></li>
+</ul>
