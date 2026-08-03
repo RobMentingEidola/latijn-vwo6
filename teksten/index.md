@@ -87,4 +87,5 @@ Kies direct een caput en ga aan de slag.
 ## De Oratore
 <ul class="pro-archia-grid">
 	<li><a href="de-oratore-caput-137.html" target="_blank" rel="noopener noreferrer">Caput 137</a></li>
+	<li><a href="de-oratore-caput-138-139.html" target="_blank" rel="noopener noreferrer">Caput 138-139</a></li>
 </ul>

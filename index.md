@@ -22,9 +22,7 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 - [Stilistische middelen](stijl/)
 
 ## Nieuw deze week
-- Pro Archia: klaar!
-- In Catilinam 1: klaar!
-- In Pisonem: klaar!
+- De Oratore 137-139
 
 ![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
 
