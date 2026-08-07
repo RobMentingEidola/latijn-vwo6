@@ -91,4 +91,5 @@ Kies direct een caput en ga aan de slag.
 	<li><a href="de-oratore-caput-140.html" target="_blank" rel="noopener noreferrer">Caput 140</a></li>
 	<li><a href="de-oratore-caput-141.html" target="_blank" rel="noopener noreferrer">Caput 141</a></li>
 	<li><a href="de-oratore-caput-142-143.html" target="_blank" rel="noopener noreferrer">Caput 142-143</a></li>
+	<li><a href="de-oratore-caput-144-145.html" target="_blank" rel="noopener noreferrer">Caput 144-145</a></li>
 </ul>

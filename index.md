@@ -22,7 +22,7 @@ Alles voor je voorbereiding op het CE Latijn, op een plek.
 - [Stilistische middelen](stijl/)
 
 ## Nieuw deze week
-- De Oratore 137-139
+- De Oratore is ook af!
 
 ![Meme over Cicero en Catilina over actieve en passieve formulering]({{ '/assets/catilina.jpg' | relative_url }})
 
