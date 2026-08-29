@@ -30,6 +30,17 @@
   margin: 0;
 }
 
+.text-resources {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.video-link {
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
 @media (max-width: 1000px) {
   .pro-archia-grid {
     grid-template-columns: repeat(3, minmax(120px, 1fr));
