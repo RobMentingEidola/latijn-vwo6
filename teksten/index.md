@@ -15,7 +15,7 @@ Kies direct een caput en ga aan de slag.
 <ul class="pro-archia-grid">
 	<li class="text-resources"><a href="pro-archia-caput-4.html" target="_blank" rel="noopener noreferrer">Caput 4</a> <a class="video-link" href="https://youtu.be/e8YPPuEYTRw" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="pro-archia-caput-5.html" target="_blank" rel="noopener noreferrer">Caput 5</a> <a class="video-link" href="https://youtu.be/2nuAUNmOYLo" target="_blank" rel="noopener noreferrer">Video</a></li>
-	<li><a href="pro-archia-caput-5b.html" target="_blank" rel="noopener noreferrer">Caput 5b</a></li>
+	<li class="text-resources"><a href="pro-archia-caput-5b.html" target="_blank" rel="noopener noreferrer">Caput 5b</a> <a class="video-link" href="https://youtu.be/cQoXiBVI16s" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li><a href="pro-archia-caput-6.html" target="_blank" rel="noopener noreferrer">Caput 6</a></li>
 	<li><a href="pro-archia-caput-6b.html" target="_blank" rel="noopener noreferrer">Caput 6b</a></li>
 	<li><a href="pro-archia-caput-7.html" target="_blank" rel="noopener noreferrer">Caput 7</a></li>
