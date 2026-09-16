@@ -23,7 +23,7 @@ Kies direct een caput en ga aan de slag.
 	<li class="text-resources"><a href="pro-archia-caput-12b.html" target="_blank" rel="noopener noreferrer">Caput 12b</a> <a class="video-link" href="https://youtu.be/dlikSGcJ2qE" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="pro-archia-caput-13.html" target="_blank" rel="noopener noreferrer">Caput 13</a> <a class="video-link" href="https://youtu.be/tasXUFlOQro" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="pro-archia-caput-14.html" target="_blank" rel="noopener noreferrer">Caput 14</a> <a class="video-link" href="https://youtu.be/5xEBSWbJsBc" target="_blank" rel="noopener noreferrer">Video</a></li>
-	<li><a href="pro-archia-caput-14b.html" target="_blank" rel="noopener noreferrer">Caput 14b</a></li>
+	<li class="text-resources"><a href="pro-archia-caput-14b.html" target="_blank" rel="noopener noreferrer">Caput 14b</a> <a class="video-link" href="https://youtu.be/yiLq42JhYns" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li><a href="pro-archia-caput-15.html" target="_blank" rel="noopener noreferrer">Caput 15</a></li>
 	<li><a href="pro-archia-caput-16.html" target="_blank" rel="noopener noreferrer">Caput 16</a></li>
 	<li><a href="pro-archia-caput-16b.html" target="_blank" rel="noopener noreferrer">Caput 16b</a></li>
