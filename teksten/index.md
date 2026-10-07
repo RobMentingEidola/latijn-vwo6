@@ -33,7 +33,7 @@ Kies direct een caput en ga aan de slag.
 		<li class="text-resources"><a href="pro-archia-caput-26.html" target="_blank" rel="noopener noreferrer">Caput 26</a> <a class="video-link" href="https://youtu.be/T3ogS4opk1U" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="pro-archia-caput-27.html" target="_blank" rel="noopener noreferrer">Caput 27</a> <a class="video-link" href="https://youtu.be/AML-qTiDAR4" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="pro-archia-caput-28.html" target="_blank" rel="noopener noreferrer">Caput 28</a> <a class="video-link" href="https://youtu.be/sNl9rvxhgZA" target="_blank" rel="noopener noreferrer">Video</a></li>
-	<li><a href="pro-archia-caput-29.html" target="_blank" rel="noopener noreferrer">Caput 29</a></li>
+	<li class="text-resources"><a href="pro-archia-caput-29.html" target="_blank" rel="noopener noreferrer">Caput 29</a> <a class="video-link" href="https://youtu.be/KTao-QRQ5Dg" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li><a href="pro-archia-caput-30.html" target="_blank" rel="noopener noreferrer">Caput 30</a></li>
 	<li><a href="pro-archia-caput-30b.html" target="_blank" rel="noopener noreferrer">Caput 30b</a></li>
 </ul>
