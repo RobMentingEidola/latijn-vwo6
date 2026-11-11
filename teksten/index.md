@@ -41,7 +41,7 @@ Kies direct een caput en ga aan de slag.
 
 ## In Catilinam 1
 <ul class="pro-archia-grid">
-	<li><a href="in-catilinam1-caput-01.html" target="_blank" rel="noopener noreferrer">Caput 1</a></li>
+	<li class="text-resources"><a href="in-catilinam1-caput-01.html" target="_blank" rel="noopener noreferrer">Caput 1</a> <a class="video-link" href="https://youtu.be/7tQlPa7ACGs" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li><a href="in-catilinam1-caput-02.html" target="_blank" rel="noopener noreferrer">Caput 2</a></li>
 	<li><a href="in-catilinam1-caput-05.html" target="_blank" rel="noopener noreferrer">Caput 5</a></li>
 	<li><a href="in-catilinam1-caput-06.html" target="_blank" rel="noopener noreferrer">Caput 6</a></li>
