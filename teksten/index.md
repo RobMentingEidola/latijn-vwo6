@@ -44,7 +44,7 @@ Kies direct een caput en ga aan de slag.
 	<li class="text-resources"><a href="in-catilinam1-caput-01.html" target="_blank" rel="noopener noreferrer">Caput 1</a> <a class="video-link" href="https://youtu.be/7tQlPa7ACGs" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="in-catilinam1-caput-02.html" target="_blank" rel="noopener noreferrer">Caput 2</a> <a class="video-link" href="https://youtu.be/YgulIpEsvR0" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li class="text-resources"><a href="in-catilinam1-caput-05.html" target="_blank" rel="noopener noreferrer">Caput 5</a> <a class="video-link" href="https://youtu.be/iv3f3OWjYws" target="_blank" rel="noopener noreferrer">Video</a></li>
-	<li><a href="in-catilinam1-caput-06.html" target="_blank" rel="noopener noreferrer">Caput 6</a></li>
+	<li class="text-resources"><a href="in-catilinam1-caput-06.html" target="_blank" rel="noopener noreferrer">Caput 6</a> <a class="video-link" href="https://youtu.be/bGwI90BMiYQ" target="_blank" rel="noopener noreferrer">Video</a></li>
 	<li><a href="in-catilinam1-caput-09.html" target="_blank" rel="noopener noreferrer">Caput 9</a></li>
 	<li><a href="in-catilinam1-caput-09b.html" target="_blank" rel="noopener noreferrer">Caput 9b</a></li>
 	<li><a href="in-catilinam1-caput-10.html" target="_blank" rel="noopener noreferrer">Caput 10</a></li>
